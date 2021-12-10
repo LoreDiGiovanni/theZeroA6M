@@ -1,6 +1,15 @@
+```
+██████╗  ██████╗ ███╗   ███╗██████╗ ██╗ ██████╗ █████╗ ██████╗  ██████╗
+██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗
+██████╔╝██║   ██║██╔████╔██║██████╔╝██║██║     ███████║██████╔╝██║   ██║
+██╔══██╗██║   ██║██║╚██╔╝██║██╔═══╝ ██║██║     ██╔══██║██╔═══╝ ██║   ██║
+██║  ██║╚██████╔╝██║ ╚═╝ ██║██║     ██║╚██████╗██║  ██║██║     ╚██████╔╝  
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝      ╚═════╝
+ ```
+
 <img align="left" height=300px width=300px src="assets/lurk.png" />
 
-# Tools && Languages:
+# Tools and Languages:
 ![sql](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=mysql)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
