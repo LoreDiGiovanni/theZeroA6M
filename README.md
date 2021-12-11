@@ -6,14 +6,20 @@
 ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║     ██║╚██████╗██║  ██║██║     ╚██████╔╝  
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝      ╚═════╝
  ```
+ ### If you have any questions ask me  [<img align="center" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/673/PNG/512/reddit_icon-icons.com_60458.png" />][Reddit] [<img align="center" alt="Github" width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />][Reddit]
+
+[Reddit]:https://www.reddit.com/user/Rompicapoo
+[Github]:https://github.com/Rompicapo
+
 ### The purpose of my config
 > I always try to build a setup with the essentials for what I need, each tool has its purpose, and some are better for something and others for something else
 
-### Im current working on, 💬 if you have any questions ask me
-- 😈 My Evil [GNU emacs](https://github.com/Rompicapo/Dotfiles/blob/master/.emacs.d/config.org) build
-- 📝 My [✅im](https://github.com/Rompicapo/Dotfiles/blob/master/.vimrc) build 
-- 🐙 My [dotfiles](https://github.com/Rompicapo/Dotfiles)
-- 📚 im a computer science student
+### Im current working on:
+- My Evil [GNU Emacs](https://github.com/Rompicapo/Dotfiles/blob/master/.emacs.d/config.org) build 😈 <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/emacs_93840.png" />
+- My [Vim](https://github.com/Rompicapo/Dotfiles/blob/master/.vimrc) build <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/vim_94609.png" />
+- My [Dotfiles](https://github.com/Rompicapo/Dotfiles) <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" />
+- Im a computer science student <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/567/PNG/512/bookshelf_icon-icons.com_54414.png" />
+
  
 <img align="left" height=300px width=300px src="assets/lurk.png" />
 
