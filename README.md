@@ -6,13 +6,15 @@
 ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║     ██║╚██████╗██║  ██║██║     ╚██████╔╝  
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝      ╚═════╝
  ```
-### the philosophy of my config
+### The purpose of my config
 > I always try to build a setup with the essentials for what I need, each tool has its purpose, and some are better for something and others for something else
 
-### im current working on
-- My Evil [GNU emacs](https://github.com/Rompicapo/Dotfiles/blob/master/.emacs.d/config.org) build 😈
-- My [✅im](https://github.com/Rompicapo/Dotfiles/blob/master/.vimrc) build 
-- My [dotfiles](https://github.com/Rompicapo/Dotfiles) 🐙
+### Im current working on, 💬 if you have any questions ask me
+- 😈 My Evil [GNU emacs](https://github.com/Rompicapo/Dotfiles/blob/master/.emacs.d/config.org) build
+- 📝 My [✅im](https://github.com/Rompicapo/Dotfiles/blob/master/.vimrc) build 
+- 🐙 My [dotfiles](https://github.com/Rompicapo/Dotfiles)
+- 📚 im a computer science student
+ 
 <img align="left" height=300px width=300px src="assets/lurk.png" />
 
 # Tools and Languages:
