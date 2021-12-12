@@ -1,6 +1,6 @@
 ```
 ██████╗  ██████╗ ███╗   ███╗██████╗ ██╗ ██████╗ █████╗ ██████╗  ██████╗  Reddit: u/Rompicapoo
-██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗ YouTube: soon..
+██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗ 
 ██████╔╝██║   ██║██╔████╔██║██████╔╝██║██║     ███████║██████╔╝██║   ██║
 ██╔══██╗██║   ██║██║╚██╔╝██║██╔═══╝ ██║██║     ██╔══██║██╔═══╝ ██║   ██║
 ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║     ██║╚██████╗██║  ██║██║     ╚██████╔╝  
@@ -40,6 +40,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
 ![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archlinux&logoColor=3399cc)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Rompicapo&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="Rompicapo" />
 
