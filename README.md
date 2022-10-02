@@ -31,7 +31,6 @@
 ![latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex)
 ![Org-mode](https://img.shields.io/badge/-OrgMode-05122A?style=flat&logo=org)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Haskell](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=haskell)
 ![c](https://img.shields.io/badge/-05122A?style=flat&logo=c)
 ![python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
