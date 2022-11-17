@@ -19,9 +19,6 @@
 - My [Dotfiles](https://github.com/Rompicapo/Dotfiles) <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" />
 - Im a computer science student <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/567/PNG/512/bookshelf_icon-icons.com_54414.png" />
 
- 
-<img align="left" height=300px width=300px src="assets/lurk.png" />
-
 # Tools and Languages:
 ![sql](https://img.shields.io/badge/-Sql-05122A?style=flat&logo=mysql)
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
@@ -38,5 +35,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
 ![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archlinux&logoColor=3399cc)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Rompicapo&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="Rompicapo" />
+
 
