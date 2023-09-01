@@ -3,9 +3,6 @@
 [Reddit]:https://www.reddit.com/user/Rompicapoo
 [Github]:https://github.com/Rompicapo
 
-### The purpose of my config
-> I always try to build a setup with the essentials for what I need, each tool has its purpose, and some are better for something and others for something else
-
 ### Im current working on:
 - My Evil [GNU Emacs](https://github.com/Rompicapo/Dotfiles/blob/master/.emacs.d/init.el) build 😈 <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/emacs_93840.png" />
 - My [Dotfiles](https://github.com/Rompicapo/Dotfiles) <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" />
