@@ -1,12 +1,4 @@
-```
-██████╗  ██████╗ ███╗   ███╗██████╗ ██╗ ██████╗ █████╗ ██████╗  ██████╗  Reddit: u/Rompicapoo
-██╔══██╗██╔═══██╗████╗ ████║██╔══██╗██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗ 
-██████╔╝██║   ██║██╔████╔██║██████╔╝██║██║     ███████║██████╔╝██║   ██║
-██╔══██╗██║   ██║██║╚██╔╝██║██╔═══╝ ██║██║     ██╔══██║██╔═══╝ ██║   ██║
-██║  ██║╚██████╔╝██║ ╚═╝ ██║██║     ██║╚██████╗██║  ██║██║     ╚██████╔╝  
-╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝      ╚═════╝
- ```
- ### If you have any questions ask me  [<img align="center" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/673/PNG/512/reddit_icon-icons.com_60458.png" />][Reddit] [<img align="center" alt="Github" width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />][Reddit]
+### If you have any questions ask me  [<img align="center" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/673/PNG/512/reddit_icon-icons.com_60458.png" />][Reddit] [<img align="center" alt="Github" width="22px" src="https://cdn.icon-icons.com/icons2/2351/PNG/512/logo_github_icon_143196.png" />][Reddit]
 
 [Reddit]:https://www.reddit.com/user/Rompicapoo
 [Github]:https://github.com/Rompicapo
