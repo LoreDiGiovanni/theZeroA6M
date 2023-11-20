@@ -4,8 +4,7 @@
 [Github]:https://github.com/Rompicapo
 
 ### Im current working on:
-- My Evil [GNU Emacs](https://github.com/Rompicapo/Dotfiles/blob/master/.emacs.d/init.el) build 😈 <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/emacs_93840.png" />
-- My [Dotfiles](https://github.com/Rompicapo/Dotfiles) <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/1508/PNG/512/distributorlogoarchlinux_103805.png" />
+- EARDIS: [EARDIS back-end](https://github.com/gotorosso/EARDIS-back-end)
 - Im a computer science student <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/567/PNG/512/bookshelf_icon-icons.com_54414.png" />
 
 # Tools and Languages:
@@ -24,5 +23,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
 ![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archlinux&logoColor=3399cc)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-
+![mognodb](https://img.shields.io/badge/-mognodb-05122A?style=flat&logo=mongodb)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 
