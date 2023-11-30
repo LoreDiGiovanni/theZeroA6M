@@ -4,7 +4,8 @@
 [Github]:https://github.com/Rompicapo
 
 ### Im current working on:
-- EARDIS: [EARDIS back-end](https://github.com/gotorosso/EARDIS-back-end)
+- EARDIS BE: [EARDIS back-end](https://github.com/gotorosso/EARDIS-back-end)
+- EARDIS FE: [EARDIS front-end](https://github.com/gotorosso/EARDIS-front-end)
 - Im a computer science student <img align="left" width="22px" src="https://cdn.icon-icons.com/icons2/567/PNG/512/bookshelf_icon-icons.com_54414.png" />
 
 # Tools and Languages:
